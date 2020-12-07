@@ -170,6 +170,17 @@ module.exports = "/_next/static/images/avatar-f1d71f777331fd7e3de116edf4ee3b67.j
 
 /***/ }),
 
+/***/ "./assets/img/hursuc.jpg":
+/*!*******************************!*\
+  !*** ./assets/img/hursuc.jpg ***!
+  \*******************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/_next/static/images/hursuc-721b8a401af9347fff3639c9838ef998.jpg";
+
+/***/ }),
+
 /***/ "./assets/img/landing.jpg":
 /*!********************************!*\
   !*** ./assets/img/landing.jpg ***!
@@ -178,17 +189,6 @@ module.exports = "/_next/static/images/avatar-f1d71f777331fd7e3de116edf4ee3b67.j
 /***/ (function(module, exports) {
 
 module.exports = "/_next/static/images/landing-08e18cb904f0f3c6dd9e3d4ed72e0eca.jpg";
-
-/***/ }),
-
-/***/ "./assets/img/nextjs_header.jpg":
-/*!**************************************!*\
-  !*** ./assets/img/nextjs_header.jpg ***!
-  \**************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "/_next/static/images/nextjs_header-5b5bdd5947add66de4b99db16abe8b22.jpg";
 
 /***/ }),
 
@@ -14110,7 +14110,7 @@ function Components(props) {
       columnNumber: 7
     }
   })), __jsx(components_Parallax_Parallax_js__WEBPACK_IMPORTED_MODULE_10__["default"], {
-    image: __webpack_require__(/*! assets/img/nextjs_header.jpg */ "./assets/img/nextjs_header.jpg"),
+    image: __webpack_require__(/*! assets/img/hursuc.jpg */ "./assets/img/hursuc.jpg"),
     __self: this,
     __source: {
       fileName: _jsxFileName,
